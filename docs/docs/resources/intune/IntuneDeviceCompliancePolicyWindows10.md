@@ -248,7 +248,7 @@ Surface Hubs that run Windows 10 Team OS do not support the Microsoft Defender f
 
 ### Example 1
 
-This example creates a new Device Comliance Policy for MacOS.
+This example creates a new Device Comliance Policy for Windows 10.
 
 ```powershell
 Configuration Example
@@ -308,7 +308,7 @@ Configuration Example
 
 ### Example 2
 
-This example removes an existing Device Compliance Policy for MacOS devices
+This example removes an existing Device Compliance Policy for Windows 10 devices
 
 ```powershell
 Configuration Example
